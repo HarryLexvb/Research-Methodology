@@ -1,0 +1,17 @@
+an introduction to quanum computing philips :
+https://academic.oup.com/book/41807                                                        -> An Introduction to Quantum Computing Get access Arrow
+https://arxiv.org/abs/0708.0261                                                            -> AN INTRODUCTION TO QUANTUM COMPUTING otro autor 
+
+basic quantum algoritmhs: 
+https://arxiv.org/abs/2201.10574                                                           -> Basic Quantum Algorithms
+
+evolution of quantum computing based on:
+https://ieeexplore.ieee.org/document/8944676                                               -> Evolution of Quantum Computing Based on Grover's Search Algorithm
+
+quatum algorithms overview
+https://ieeexplore.ieee.org/document/9357505                                               -> Quantum Algorithms: Overviews, Foundations, and Speedups
+
+https://www.researchgate.net/publication/342131364_Grover%27s_Algorithm                    -> Grover's Algorithm
+https://arxiv.org/abs/2202.02826                                                           -> Post Quantum Cryptography: Techniques, Challenges, Standardization, and Directions for Future Research
+https://www.researchgate.net/publication/334668692_Quantum_Advantage_and_Y2K_Bug_Comparison
+https://arxiv.org/abs/2206.04078 											-> Quantum Advantage in Cryptography

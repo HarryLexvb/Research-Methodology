@@ -1,0 +1,73 @@
+https://dl.acm.org/doi/10.1109/LICS.2013.14                                                -> Topological Structure of Quantum Algorithms
+https://ieeexplore.ieee.org/document/5369930                                               -> A Proposal of a Quantum Search Algorithm
+https://ieeexplore.ieee.org/document/7162096                                               -> Two Improvements in Grover's Algorithm
+https://ieeexplore.ieee.org/book/7008157                                                   -> Quantum Algorithms via Linear Algebra: A Primer
+https://ieeexplore.ieee.org/document/1228418                                               -> An information-theoretic analysis of Grover's algorithm
+https://ieeexplore.ieee.org/document/6457788                                               -> Quantum cryptography based on Grover's algorithm
+https://ieeexplore.ieee.org/document/8944676                                               -> Evolution of Quantum Computing Based on Grover's Search Algorithm
+https://link.springer.com/book/10.1007/978-3-540-70626-7                                   -> Compendium of Quantum Physics
+https://link.springer.com/chapter/10.1007/3-540-40894-0_15                                 -> Grover’s Algorithm for Multiobject Search in Quantum Computing
+https://link.springer.com/article/10.1007/s00006-010-0206-z                                -> Clifford Algebra Applied to Grover’s Algorithm
+https://link.springer.com/book/10.1007/978-3-642-36046-6                                   -> Mathematical and Engineering Methods in Computer Science
+https://www.sciencedirect.com/science/article/pii/S1876610212002731                        -> Progress of Grover Quantum Search Algorithm
+https://www.sciencedirect.com/science/article/abs/pii/S0921453406008756                    -> Implementation of the Grover search algorithm with Josephson charge qubits
+https://www.sciencedirect.com/science/article/pii/S0020019021000879                        -> Quantum attacks on Sum of Even-Mansour pseudorandom functions
+https://www.sciencedirect.com/science/article/abs/pii/S000926140201895X                    -> Experimental implementation of Grover’s search algorithm using efficient quantum state tomography	
+https://www.sciencedirect.com/science/article/abs/pii/S0375960106017609                    -> Threshold quantum cryptograph based on Grover's algorithm
+https://www.researchgate.net/publication/342131364_Grover%27s_Algorithm                    -> Grover's Algorithm
+https://arxiv.org/abs/2106.05299                                                           -> Grover's Algorithm for Question Answering
+https://dl.acm.org/doi/10.1145/230514.230515                                               -> A short note on Shor's factoring algorithm
+https://dl.acm.org/doi/10.1145/1555754.1555802                                             -> A fault tolerant, area efficient architecture for Shor's factoring algorithm
+https://ieeexplore.ieee.org/document/8117822                                               -> A novel technique to modify the SHOR'S algorithm — Scaling the encryption scheme
+https://ieeexplore.ieee.org/document/5447168                                               -> On the Complexity of Shor's Algorithm for Factorization
+https://ieeexplore.ieee.org/document/9250806                                               -> An Efficient Quantum Computing technique for cracking RSA using Shor’s Algorithm
+https://ieeexplore.ieee.org/document/6919115                                               -> A Compare between Shor's quantum factoring algorithm and General Number Field Sieve
+https://ieeexplore.ieee.org/document/4415451                                               -> A Period-Finding Method for Shor's Algorithm
+https://ieeexplore.ieee.org/document/6801701                                               -> Experimental realisation of Shor's quantum factoring algorithm using qubit recycling
+https://ieeexplore.ieee.org/document/8748675                                               -> Cryptographic Attack Possibilities over RSA Algorithm through Classical and Quantum Computation
+https://ieeexplore.ieee.org/document/9310794                                               -> Simulation of Modular Exponentiation Circuit for Shor's Algorithm in Qiskit
+https://ieeexplore.ieee.org/document/9376169                                               -> Near term implementation of Shor's Algorithm using Qiskit
+https://ieeexplore.ieee.org/document/8109007                                               -> Efficient In-Situ Quantum Computing Simulation of Shor's and Grover's Algorithms
+https://ieeexplore.ieee.org/document/9357505                                               -> Quantum Algorithms: Overviews, Foundations, and Speedups
+https://link.springer.com/chapter/10.1007/978-981-10-1023-1_33                             -> Shor’s Algorithm for Quantum Factoring
+https://link.springer.com/book/10.1007/b97045                                              -> Probabilistic and Statistical Methods in Cryptology
+https://link.springer.com/chapter/10.1007/978-3-030-19066-8_4                              -> Shor’s Algorithm for Integer Factorization
+https://link.springer.com/article/10.1007/s11128-019-2249-y                                -> Quantum entanglement involved in Grover’s and Shor’s algorithms: the four-qubit case
+https://link.springer.com/article/10.1023/A%3A1008739111712                                -> An Implementation of Shor’s r-Algorithm
+https://link.springer.com/article/10.1007/s11434-010-3039-1                                -> Speeding up implementation for Shor’s factorization quantum algorithm
+https://link.springer.com/chapter/10.1007/978-3-319-73216-9_21                             -> Improving the Success Probability for Shor’s Factorization Algorithm
+https://arxiv.org/abs/2204.11775                                                           -> A quantum Fourier transform (QFT) based note detection algorithm
+https://arxiv.org/abs/2202.02826                                                           -> Post Quantum Cryptography: Techniques, Challenges, Standardization, and Directions for Future Research
+https://arxiv.org/abs/2201.10574                                                           -> Basic Quantum Algorithms
+https://arxiv.org/abs/2111.06102                                                           -> The Present and Future of Discrete Logarithm Problems on Noisy Quantum Computers
+https://arxiv.org/abs/2107.11082                                                           -> A survey on NIST PQ signatures
+https://arxiv.org/abs/2107.10196                                                           -> Prime Factorization Using Quantum Variational Imaginary Time Evolution
+https://arxiv.org/abs/2104.11616                                                           -> An integer factorization algorithm which uses diffusion as a computational engine
+https://arxiv.org/abs/2011.02152                                                           -> From Practice to Theory: The "Bright Illumination" Attack on Quantum Key Distribution Systems
+https://arxiv.org/abs/2010.01240                                                           -> Proving Quantum Programs Correct
+https://arxiv.org/abs/2005.02268                                                           -> Breaking RSA Security With A Low Noise D-Wave 2000Q Quantum Annealer: Computational Times, Limitations And Prospects
+https://arxiv.org/abs/2001.09580                                                           -> Improved quantum circuits for elliptic curve discrete logarithms
+https://academic.oup.com/book/41807                                                        -> An Introduction to Quantum Computing Get access Arrow
+https://arxiv.org/abs/0708.0261                                                            -> AN INTRODUCTION TO QUANTUM COMPUTING otro autor 
+
+https://arxiv.org/abs/2207.05976 / https://www.researchgate.net/publication/361981880_Distributed_Shor%27s_algorithm                                 -> Distributed Shor's algorithm
+https://arxiv.org/abs/2206.00757 / https://www.researchgate.net/publication/361051332_A_technical_note_for_a_Shor%27s_algorithm_by_phase_estimation  -> A technical note for a Shor's algorithm by phase estimatio
+https://www.techrxiv.org/articles/preprint/Quantum_circuit_design_for_computer-assisted_Shor_s_algorithm/19152632 / https://www.researchgate.net/publication/358538019_Quantum_circuit_design_for_computer-assisted_Shor%27s_algorithm -> Quantum circuit design for computer-assisted Shor's algorithm
+https://www.researchgate.net/publication/356632647_Benchmarks_for_quantum_computers_from_Shor%27s_algorithm                                          -> Benchmarks for quantum computers from Shor's algorithm
+https://www.researchgate.net/publication/326358724_A_Classical_Mechanism_for_Shor%27s_Algorithm_Implementations                                      -> A Classical Mechanism for Shor's Algorithm Implementations
+https://www.researchgate.net/publication/333310854_COMPLEXITY_CONSIDERATIONS_QUANTUM_COMPUTATION -> COMPLEXITY CONSIDERATIONS QUANTUM COMPUTATION
+https://www.researchgate.net/publication/347321760_Concrete_quantum_cryptanalysis_of_binary_elliptic_curves                                          -> Concrete quantum cryptanalysis of binary elliptic curves
+https://www.researchgate.net/publication/2201869_On_The_Power_of_Exact_Quantum_Polynomial_Time                                                       -> On The Power of Exact Quantum Polynomial Time
+https://www.researchgate.net/publication/361905294_Quantum_Circuit_Optimization_for_Solving_Discrete_Logarithm_of_Binary_Elliptic_Curves_Obeying_the_Nearest-Neighbor_Constrained -> Quantum Circuit Optimization for Solving Discrete Logarithm of Binary Elliptic Curves Obeying the Nearest-Neighbor Constrained
+
+
+
+NO PUDE DESCARGAR: 
+https://ieeexplore.ieee.org/document/9605316                                               -> Implementing the Simplex Method with Grover’s Search
+https://ieeexplore.ieee.org/document/9764017                                               -> Comparing Grover’s Quantum Search Algorithm with Classical Algorithm on Solving Satisfiability Problem
+https://link.springer.com/book/10.1007/978-3-030-98339-0?page=2#toc                        -> Introduction to Quantum Computing
+https://dl.acm.org/doi/10.1145/3503823.3503895                                             -> Implementation of Shor's Algorithm and Reliability of Quantum Computing Devices
+https://ieeexplore.ieee.org/document/9686492                                               -> Implementation of 5-Qubit approach-based Shor's Algorithm in IBM Qiskit
+https://link.springer.com/chapter/10.1007/978-981-16-2818-4_12                             -> Three-Qubit Implementation of Quantum Fourier Transform for Shor’s Algorithm
+https://link.springer.com/chapter/10.1007/978-3-030-89432-0_8                              -> Quantum Cryptanalysis Landscape of Shor’s Algorithm for Elliptic Curve Discrete Logarithm Problem
+https://www.researchgate.net/publication/349930879_Probability_estimates_for_Shor%27s_algorithm -> Probability estimates for Shor's algorithm

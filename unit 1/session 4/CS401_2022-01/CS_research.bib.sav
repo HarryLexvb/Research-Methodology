@@ -1,0 +1,68 @@
+% Encoding: UTF-8
+
+@Book{Zobel_2014,
+  title     = {{Writing for Computer Science}},
+  publisher = {Springer-Verlag},
+  year      = {2014},
+  author    = {Justin Zobel},
+  address   = {London},
+  edition   = {Third},
+  isbn      = {978-1-4471-6638-2},
+  doi       = {10.1007/978-1-4471-6639-9},
+}
+
+@InBook{Bourke_1962,
+  chapter   = {Rationalism},
+  pages     = {263},
+  title     = {{Dictionary of Philosophy}},
+  publisher = {Littlefield, Adams and Company},
+  year      = {1962},
+  author    = {Vernon J. Bourke},
+  editor    = {Dagoberth D. Runes},
+  address   = {Totowa, NJ},
+}
+
+@InCollection{Mihalkova2009,
+  author    = {Lilyana Mihalkova and Raymond Mooney},
+  title     = {Learning to Disambiguate Search Queries from Short Sessions},
+  booktitle = {Machine Learning and Knowledge Discovery in Databases},
+  publisher = {Springer Berlin Heidelberg},
+  year      = {2009},
+  pages     = {111--127},
+  doi       = {10.1007/978-3-642-04174-7_8},
+}
+
+@Book{CC_2013,
+  title     = {{Computer Science Curricula 2013: Curriculum Guidelines for Undergraduate Degree Programs in Computer Science}},
+  publisher = {{ACM}, Inc},
+  year      = {2013},
+  author    = {{IEEE-ACM} {Computing-Curricula}},
+  editor    = {{ACM Computing Curricula Task Force}},
+  month     = {jan},
+  doi       = {10.1145/2534860},
+  owner     = {yvantv},
+  timestamp = {2018.08.24},
+}
+
+@Article{Lotte2018,
+  author    = {F Lotte and L Bougrain and A Cichocki and M Clerc and M Congedo and A Rakotomamonjy and F Yger},
+  title     = {A review of classification algorithms for {EEG}-based brain{\textendash}computer interfaces: a 10 year update},
+  journal   = {Journal of Neural Engineering},
+  year      = {2018},
+  volume    = {15},
+  number    = {3},
+  pages     = {031005},
+  month     = {apr},
+  doi       = {10.1088/1741-2552/aab2f2},
+  publisher = {{IOP} Publishing},
+}
+
+@TechReport{Keshav2010,
+  author      = {Keshav, S.},
+  institution = {David R. Cheriton School of Computer Science, University of Waterloo},
+  title       = {How to Read a Paper},
+  year        = {2010},
+  abstract    = {Researchers spend a great deal of time reading research pa-pers.  However, this skill is rarely taught, leading to muchwasted effort.  This article outlines a practical and efficient three-pass method for reading  research  papers.  I also describe how to use this method to do a literature survey.},
+}
+
+@Comment{jabref-meta: databaseType:bibtex;}

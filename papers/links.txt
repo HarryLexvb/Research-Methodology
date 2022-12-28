@@ -1,0 +1,54 @@
+https://doi.org/10.1145/3460120.3484567   ---> EasyPQC: Verifying Post-Quantum Cryptography
+https://dl.acm.org/doi/10.5555/1127389.1127415 ---> Teaching cryptography in an applied computing program
+https://doi.org/10.1145/3478432.3499067 ---> CryptoScratch: Teaching Cryptography with Block-based Coding
+https://dl.acm.org/doi/book/10.5555/1965552 ---> Cryptography, Automata and Learning Theory
+https://dl.acm.org/doi/book/10.5555/248982 ---> Cryptography's role in securing the information society
+
+
+//////// descargados /////////////////////////
+https://doi.org/10.1145/1242471.1242474 ---> Quantum cryptography: A survey
+https://doi.org/10.1145/24652.24654 ---> Quantum cryptography
+https://doi.org/10.1145/863955.863982 ---> Quantum cryptography in practice
+https://doi.org/10.1145/3377644.3377671 ---> Quantum Cryptography and Simulation: Tools and Techniques
+https://doi.org/10.1145/235666.235669 ---> 25 years of quantum cryptography
+https://doi.org/10.1145/382780.382781 ---> Unconditional security in quantum cryptography
+https://doi.org/10.1145/3317549.3324882 --> Post-quantum cryptography and 5G security: tutorial
+https://doi.org/10.1145/1144396.1144399 ---> An introduction to quantum cryptography
+https://doi.org/10.1145/74074.74087 ---> Experimental quantum cryptography: the dawn of a new era for quantum cryptography: the experimental prototype is working]
+https://doi.org/10.1145/3319619.3321945 ---> Discovery of robust protocols for secure quantum cryptography
+https://doi.org/10.1145/3241037 ---> Cyber security in the quantum era 
+https://doi.org/10.1145/2979779.2979816 ---> A Novel Scheme for Data Security in Cloud Computing using Quantum Cryptography 
+
+
+///////////// book descargado///////////////////////////////////////////////
+https://dl.acm.org/doi/book/10.5555/1215801 ----> Quantum Cryptography and Secret-Key Distillation
+https://dl.acm.org/doi/book/10.5555/1925513 ---> Quantum cryptography in real-life applications: assumptions and security
+https://dl.acm.org/doi/book/10.5555/1062432 ---> Cryptography, Information Theory, and Error-Correction: A Handbook for the 21st Century
+https://doi.org/10.1017/CBO9780511813887 ---> Basic Quantum Theory 
+https://doi.org/10.1017/CBO9780511976667 ---> Quantum Computation and Quantum Information
+
+/////////////////////////////////// CRIPTOGRAFIA DESCARGADOS //////////////////////////////////////////
+https://doi.org/10.1145/3309074.3309092 ---> Applications of machine learning in cryptography: a survey 
+https://doi.org/10.1145/3046675 ---> Arithmetic Cryptography 
+https://doi.org/10.1145/1059524.1059542 ---> Elliptic curve cryptography: Java implementation
+https://doi.org/10.1145/2344436.2344438 ---> Image hatching for visual cryptography
+doi.org/10.1145/1059524.1059543 ---> A cryptography course for non-mathematicians
+https://doi.org/10.1145/1352135.1352247 ---> Teaching cryptography with open-source software
+https://doi.org/10.1145/2905055.2905249 ---> An Elucidation on Steganography and Cryptography
+https://doi.org/10.1145/3338500.3360335 ---> Adapting Rigidity to Symmetric Cryptography: Towards "Unswerving" Designs
+https://doi.org/10.1145/3157737.3157741 ---> Research on the Fusion Architecture and Application Mode of Quantum Cryptography and Classic Cryptography 
+https://doi.org/10.1145/2688073.2688114 ---> Arithmetic Cryptography: Extended Abstract
+https://doi.org/10.1145/2007052.2007073 ---> Elliptic curve cryptography: survey and its security applications
+https://doi.org/10.1162/EVCO_a_00190 --> Evolutionary algorithms for boolean functions in diverse domains of cryptography
+https://doi.org/10.1145/1374376.1374438 ---> Cryptography with constant computational overhead
+https://doi.org/10.1145/3197507.3197514 ---> A Note on Subgroup Security in Pairing-Based Cryptography 
+https://doi.org/10.1145/971300.971334 --->  Cryptography and computer security for undergraduates 
+https://doi.org/10.1145/3418290 ---> DP-cryptography: marrying differential privacy and cryptography in emerging applications
+https://doi.org/10.1145/2523514.2523593 ---> Attacks on implementations of cryptographic algorithms: side-channel and fault attacks
+https://dl.acm.org/doi/10.5555/783106.783136 ---> Environment-independent performance analyses of cryptographic algorithms
+https://doi.org/10.1145/1741906.1741997  ---> A study of elliptic curve cryptography and its application 
+https://doi.org/10.1145/349316.349396 ---> Encryption algorithms made natural
+https://doi.org/10.1145/2714576.2714639 ---> Automated Identification of Cryptographic Primitives in Binary Code with Data Flow Graph Isomorphism 
+https://doi.org/10.1145/1527017.1527028 ---> Quantum Resistant Public Key Cryptography A Survey
+
+

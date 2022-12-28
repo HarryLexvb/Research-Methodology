@@ -1,0 +1,41 @@
+https://doi.org/10.1145/3185089.3185122 -> Quantum Grover Attack on the Simplified-AES
+https://www.researchgate.net/publication/352181318_Experimental_Analysis_of_Attacks_on_RSA_Rabin_Cryptosystems_using_Quantum_Shor's_Algorithm
+DOI: 10.13140/RG.2.2.23597.51680/1 -> Comparison of time complexity in factorizing large bi prime numbers using Grover’s and Shor’s algorithm
+https://www.researchgate.net/publication/357840113_Quantum_Algorithm_for_Attacking_RSA_Based_on_Fourier_Transform_and_Fixed-Point -> Quantum Algorithm for Attacking RSA Based on Fourier Transform and Fixed-Point
+https://www.researchgate.net/publication/258102971_Factoring_51_and_85_with_8_qubits
+https://www.researchgate.net/publication/235702678_Scaling_laws_for_Shor's_algorithm_with_a_banded_quantum_Fouriertransform
+https://www.researchgate.net/publication/335290540_Quantum-Kit_Simulating_Shor's_Factorization_of_24-Bit_Number_on_Desktop
+https://www.researchgate.net/publication/234119582_Faster_Quantum_Number_Factoring_via_Circuit_Synthesis
+https://www.researchgate.net/publication/45874068_Fast_Equivalence-checking_for_Quantum_Circuits
+https://www.researchgate.net/publication/358423622_Post_Quantum_Cryptography_Techniques_Challenges_Standardization_and_Directions_for_Future_Research
+https://www.researchgate.net/publication/334668692_Quantum_Advantage_and_Y2K_Bug_Comparison
+https://ieeexplore.ieee.org/document/9219514 -> Simulation of BB84 Quantum Key Exchange Protocol and Attack Analysis
+https://ieeexplore.ieee.org/document/7905271 -> A comprehensive survey: Quantum cryptography
+https://dl.acm.org/doi/book/10.5555/2490530 -> Quantum Attacks on Public-Key Cryptosystems
+https://ieeexplore.ieee.org/document/8300269 -> Quantum polynomial-time fixed-point attack for RSA
+https://ieeexplore.ieee.org/document/8748675 -> Cryptographic Attack Possibilities over RSA Algorithm through Classical and Quantum Computation
+https://ieeexplore.ieee.org/document/4232944 -> A Survey on Quantum Cryptographic Protocols and Their Security
+https://arxiv.org/abs/2206.04078 -> Quantum Advantage in Cryptography
+https://arxiv.org/abs/1008.2390 -> The McEliece Cryptosystem Resists Quantum Fourier Sampling Attacks
+https://arxiv.org/abs/1706.06752 -> Quantum resource estimates for computing elliptic curve discrete logarithms
+https://arxiv.org/abs/2204.01738 -> Experimental quantum adversarial learning with programmable superconducting qubits
+https://arxiv.org/abs/2207.04785 -> SALSA: Attacking Lattice Cryptography with Transformers
+https://arxiv.org/abs/2204.12156 -> Source-independent quantum random number generator against detector blinding attacks
+https://arxiv.org/abs/2001.09580 -> Improved quantum circuits for elliptic curve discrete logarithms
+https://app.dimensions.ai/details/publication/pub.1008121043 -> Experimental quantum cryptography: the dawn of a new era for quantum cryptography: the
+https://www.researchgate.net/publication/360482859_A_Variational_Quantum_Attack_for_AES-like_Symmetric_Cryptography
+https://www.researchgate.net/publication/256076801_Quantum_Attack-Resistent_Certificateless_Multi-Receiver_Signcryption_Scheme
+https://www.researchgate.net/publication/24167429_Deterministic_quantum-public-key_encryption_Forward_search_attack_and_randomization
+https://www.researchgate.net/publication/265988134_Quantum_Attacks_on_Public-Key_Cryptography
+https://www.researchgate.net/publication/279345183_Quantum_Attacks_on_Public-Key_Cryptosystems
+https://www.researchgate.net/publication/362163448_Variational_quantum_attacks_threaten_advanced_encryption_standard_based_symmetric_cryptography
+https://link.springer.com/article/10.1007/s11432-022-3511-5
+https://www.researchgate.net/publication/259432873_Quantum_attacks_on_pseudorandom_generators
+https://ieeexplore.ieee.org/document/9690063 -> Algebraic Attacks on Block Ciphers Using Quantum Annealing
+https://www.researchgate.net/publication/358492812_Quantum_Attacks_on_1K-AES_and_PRINCE
+
+No se pudo descargar: 
+https://ieeexplore.ieee.org/document/9646494 -> A Survey on Post-Quantum Public-Key Signature Schemes for Secure Vehicular Communications
+https://ieeexplore.ieee.org/document/9822599 -> Quantum and Post‐Quantum Cryptography
+https://ieeexplore.ieee.org/document/9727214 -> Recent Advances in Post-Quantum Cryptography for Networks: A Survey
+https://www.sciencedirect.com/science/article/abs/pii/S0045790622003743 -> Quantum cryptanalytic attacks of symmetric ciphers: A review

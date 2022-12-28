@@ -1,0 +1,13 @@
+Cryptographic Attack Possibilities over RSA Algorithm through Classical and Quantum Computation
+Quantum Algorithm for Attacking RSA Based on Fourier Transform and Fixed-Point
+Quantum polynomial-time fixed-point attack for RSA
+Experimental Analysis of Attacks on RSA & Rabin Cryptosystems using Quantum Shor’s Algorithm
+Quantum Grover Attack on the Simplified-AES
+A Variational Quantum Attack for AES-like Symmetric Cryptography
+Variational quantum attacks threaten advanced encryption standard based symmetric cryptography
+
+puede ser:
+Deterministic quantum-public-key encryption Forward search attack and randomization
+Quantum Attacks on Public-Key Cryptography book
+Practical Security of RSA Against NTC-Architecture Quantum Computing Attacks
+Quantum Attack On RSA Cipher System

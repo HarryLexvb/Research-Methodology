@@ -1,0 +1,39 @@
+https://doi.org/10.1145/2897937.2897973 --> A Quantum Annealing Approach for Boolean Satisfiability Problem
+https://doi.org/10.1145/2869073 ---> Computational Complexity of Quantum Satisfiability
+https://doi.org/10.1145/3149526.3149530 ---> Quantum Approximate Optimization with Hard and Soft Constraints
+https://doi.org/10.1145/3425607 ---> Multilevel Combinatorial Optimization across Quantum Architectures
+https://doi.org/10.1145/3503222.3507761 --> Suppressing ZZ crosstalk of Quantum computers through pulse and scheduling co-optimization
+https://doi.org/10.1145/1569901.1570172 --> A novel quantum-inspired evolutionary algorithm for solving combinatorial optimization problems
+https://doi.org/10.1145/3387902.3392619 ---> Automaton-based methodology for implementing optimization constraints for quantum annealing
+https://doi.org/10.1145/3520304.3528915 ---> Quantum-enhanced selection operators for evolutionary algorithms
+https://doi.org/10.1145/1007352.1007428 ---> The quantum adiabatic optimization algorithm and local minima
+https://doi.org/10.1145/3377929.3389990 ---> A quantum simulation algorithm for continuous optimization
+https://doi.org/10.1145/3456509 ----> Quantum and Randomised Algorithms for Non-linearity Estimation
+https://doi.org/10.1145/3183440.3194959 ---> Automatically solving NP-complete problems on a quantum computer
+https://doi.org/10.1145/1389095.1389218 ---> A multi-start quantum-inspired evolutionary algorithm for solving combinatorial optimization problems
+https://doi.org/10.1145/3505181  ---> Best Approximate Quantum Compiling Problems 
+https://doi.org/10.1145/3498331 ---> Quantum Linear System Solver Based on Time-optimal Adiabatic Quantum Computing and Quantum Approximate Optimization Algorithm
+https://dl.acm.org/doi/book/10.5555/1388392 ---> Mathematics of Quantum Computation and Quantum Technology
+https://doi.org/10.1016/S0034-4877(03)90002-4 ---> NEW QUANTUM ALGORITHM FOR STUDYING NP-COMPLETE PROBLEMS 
+10.1109/LISAT.2016.7494107 ---> Quantum Sort Algorithm Based On Entanglement Qubits {00, 11} 
+doi=10.1.1.679.1628&rep=rep1&type=pdf --> Sorting N Elements Using Quantum Entanglement Sets 
+10.1109/TCSI.2005.856669 --> Quantum Switching and Quantum Merge Sorting
+https://doi.org/10.1103/RevModPhys.74.145 --> Quantum cryptography 
+https://doi.org/10.1103/PhysRevLett.85.1330 ---> Limitations on Practical Quantum Cryptography
+https://doi.org/10.1145/1830761.1830917 ---> Evolution of quantum algorithms
+Quantum Grover Attack on the Simplified-AES ---> Quantum Grover Attack on the Simplified-AES 
+https://link.springer.com/article/10.1007/s10773-021-04789-x ---> Practical Security of RSA Against NTC-Architecture Quantum Computing Attacks
+https://www.scip.ch/en/?labs.20220519 ---> (revisar) rsa vs quantum
+https://ieeexplore.ieee.org/document/8300269 --> Quantum polynomial-time fixed-point attack for RSA
+https://ieeexplore.ieee.org/document/365700 ---> Algorithms for quantum computation: discrete logarithms and factoring
+https://dl.acm.org/doi/10.5555/3310435.3310522 --> Optimizing quantum optimization algorithms via faster quantum gradient computation -> 
+https://doi.org/10.48550/arXiv.1711.00465
+10.13140/RG.2.2.27436.39048 -> Linear Cryptanalysis on Quantum Systems -> https://www.researchgate.net/publication/351231656_Linear_Cryptanalysis_on_Quantum_Systems
+10.1080/23742917.2016.1226650 --> Will quantum computers be the end of public key encryption ---> https://www.researchgate.net/publication/308387440_Will_quantum_computers_be_the_end_of_public_key_encryption
+https://arxiv.org/abs/1905.09749 ---> How to factor 2048 bit RSA integers in 8 hours using 20 million noisy qubits
+
+
+no se descargo pero lo quiero: 
+https://doi.org/10.1145/3490631 ---> Enhancing the Quantum Linear Systems Algorithm Using Richardson Extrapolation
+https://doi.org/10.1145/3497776.3526941 ---> Writing and verifying a Quantum optimizing compiler
+10.15961/j.jsuese.201700629 ---> Quantum Algorithm for Attacking RSA Based on the eth Root --> lo encontre pero esta en japones 

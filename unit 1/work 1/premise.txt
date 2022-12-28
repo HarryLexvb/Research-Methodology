@@ -1,0 +1,16 @@
+Este ejercicio calificado consiste en revisar 3 trabajos academicos (papers, articles) y hacer las siguientes actividades:
+
+1. Aplicar el primer paso del enfoque de 3 pasos de lectura de un paper [Keshav, 2010] (aproximadamente 10 minutos por paper) y responder:
+El tipo de paper: teórico, análisis de mediciones de un sistema existente, analisis y mediciones de una propuesta a nivel prototipo, otro.
+Base teórica del artículo
+Principal contribución
+¿Está bien escrito el trabajo?
+2.Leer a más detalle, identificar y extraer las siguientes partes
+Contexto
+Preguntas de investigación
+Propuesta
+Ventajas y desventajas
+Conclusiones y trabajos futuros
+References
+[Keshav, 2010] Keshav, S. (2010). How to read a paper. Technical report, David R. Cheriton School of Computer
+Science, University of Waterloo.

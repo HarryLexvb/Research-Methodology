@@ -1,0 +1,9 @@
+quantum computing 
+https://doi.org/10.1145/3328778.3367014 --> introduccion a la computacion cuantica (ACM)
+https://dl.acm.org/doi/10.5555/3370272.3370336  --> Quantum computing: challenges and opportunities (ACM)
+https://doi.org/10.1145/3471391.3471424 --> Learning Quantum Computing: An Interaction Protocol for Quantum Computing Interfaces (ACM)
+https://arxiv.org/abs/2209.10398 --> BQP is not in NP(ARXIV)
+10.1109/QCE52317.2021.00042 --> A Quantum Computing Programming Language for Transparent Experiment Descriptions (IEEE)
+10.1109/COMPSAC54236.2022.00096 --> Evolution of Quantum Computing: A Systematic Survey on the Use of Quantum Computing Tools (IEEE)
+
+https://link.springer.com/book/10.1007/978-3-319-08284-4 (springer links libro)

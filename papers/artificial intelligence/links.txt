@@ -1,0 +1,8 @@
+articial intelligence 
+https://dl.acm.org/doi/10.1145/3397125.3397141 --> Artificial Intelligence: what is it? (ACM)
+10.1109/AIAM50918.2020.00085 --> Research on Artificial Intelligence Algorithm and Its Application in Games (IEEE)
+10.1109/ICAIE50891.2020.00017 --> The Application of Artificial Intelligence in Foreign Language Teaching (IEEE)
+10.1109/IWECAI55315.2022.00073 --> Application of Artificial Intelligence and Virtual Reality Technology in the Construction of University Physical Education (IEEE)
+https://doi.org/10.1145/3474085.3478875 --> A Tutorial on AI Music Composition (ACM)
+https://doi.org/10.1145/3379336.3381479 --> Musical and Conversational Artificial Intelligence (ACM)
+https://doi.org/10.1145/3495018.3501090 -> Audio Recognition and Interactive Generation System through Digital Information Identification and Artificial Intelligence Technology (ACM)

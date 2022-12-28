@@ -1,0 +1,11 @@
+A Variational Quantum Attack for AES-like Symmetric Cryptography --> https://www.researchgate.net/publication/360482859_A_Variational_Quantum_Attack_for_AES-like_Symmetric_Cryptography
+https://ieeexplore.ieee.org/document/9690063 -> Algebraic Attacks on Block Ciphers Using Quantum Annealing
+Quantum Attack-Resistent Certificateless Multi-Receiver Signcryption Scheme -> https://www.researchgate.net/publication/256076801_Quantum_Attack-Resistent_Certificateless_Multi-Receiver_Signcryption_Scheme
+Quantum Attacks on 1K-AES and PRINCE --> https://www.researchgate.net/publication/358492812_Quantum_Attacks_on_1K-AES_and_PRINCE
+Quantum polynomial-time fixed-point attack for RSA --> https://ieeexplore.ieee.org/document/8300269
+Quantum attacks on pseudorandom generators --> https://www.researchgate.net/publication/259432873_Quantum_attacks_on_pseudorandom_generators
+
+Quantum Attacks on Public-Key Cryptography book  --> https://www.researchgate.net/publication/265988134_Quantum_Attacks_on_Public-Key_Cryptography
+Quantum Attack On RSA Cipher System --> buscar 
+
+

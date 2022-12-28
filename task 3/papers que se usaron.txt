@@ -1,0 +1,9 @@
+Advanced Computing and Communication Technologies	
+An Introduction to Quantum computing https://academic.oup.com/book/41807 
+Basic Quantum Algorithms https://arxiv.org/abs/2201.10574 
+Mathematical and Engineering Methods in Computer Science https://link.springer.com/book/10.1007/978-3-642-36046-6 
+Probabilistic and Statistical Methods in Cryptology An Introduction by Selected Topics https://link.springer.com/book/10.1007/b97045 
+QUANTUM ALGORITHMS VIA LINEAR ALGEBRA   https://ieeexplore.ieee.org/book/7008157  
+Reversibility and Universality Essays Presented to Kenichi Morita on the Occasion of his 70th Birthday
+AN INTRODUCTION TO QUANTUM COMPUTING diferente autor	https://arxiv.org/abs/0708.0261  
+https://arxiv.org/abs/2204.11775                                                           -> A quantum Fourier transform (QFT) based note detection algorithm
